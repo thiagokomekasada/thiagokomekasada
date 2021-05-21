@@ -50,5 +50,5 @@ I am very active, so I don't like to stay stagnant, I am always looking for more
 <code><img alt="Ubuntu" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/ubuntu/ubuntu-plain.svg"></code>
 <code><img alt="Windows" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/windows8/windows8-original.svg"></code>
 <code><img alt="Slack" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/slack/slack-original.svg"></code>
-<code><img alt="Slack" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></code>
+<code><img alt="Slack" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/amazonwebservices/amazonwebservices-original.svg"></code>
 </a></p>
