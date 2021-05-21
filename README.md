@@ -29,8 +29,11 @@
 
 <p><a>
 <code><img alt="Python" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/python/python-original.svg"></code>
-<code><img alt="Clojure" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/clojure/clojure-original.svg"><a>Clojure</a></code>
+<code><img alt="Clojure" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/clojure/clojure-original.svg"></code>
 <code><img alt="Java" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg"></code>
+<code><img alt="Html5" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg"></code>
+<code><img alt="Css3" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg"></code>
+<code><img alt="JavaScript" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/javascript/javascript-original.svg"></code>
 </a></p>
 
 <p align="justify">
