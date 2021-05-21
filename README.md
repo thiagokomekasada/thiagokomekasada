@@ -1,3 +1,4 @@
+<p>
 <h1>
   <a>
     <svg>
@@ -9,6 +10,7 @@
     <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">
   </a>, I am Thiago
 </h1>
+</p>
 
 
 <p align="justify">Software Engineering student at PUC-MG, Coffee lover, Organized, Proactive, Calm and Performance curious. Currently in love with Development and Programming.</p>
@@ -23,8 +25,8 @@
 <a target="_blank" href="https://hackerrank.com">
   <img align="left" alt="Hackerrank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
 </a>
-
 </p>
+
 <p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
