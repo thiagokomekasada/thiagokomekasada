@@ -13,7 +13,7 @@
 
 <p align="justify">Software Engineering student at PUC-MG, Coffee lover, Organized, Proactive, Calm and Performance curious. Currently in love with Development and Programming.</p>
 <p>I'm learning at the moment <strong>Python and Clojure</strong></p>
-
+<p>
 <a target="_blank" href="https://www.linkedin.com/">
   <img align="left" alt="LinkdeIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -23,8 +23,10 @@
 <a target="_blank" href="https://www.github.com">
   <img align="left" alt="Instagram" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
+</p>
+<p>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+</p>
