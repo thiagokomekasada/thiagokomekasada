@@ -28,7 +28,7 @@
 </p>
 
 <p><a>
-<code><img alt="Python" height="50" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img alt="Python" height="30" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></code>
 <code><img alt="Clojure" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/clojure/clojure-original.svg"></code>
 <code><img alt="Java" height="50" src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg"></code>
 </a></p>
