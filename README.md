@@ -15,8 +15,7 @@
 
 <p align="justify">Software Engineering student at PUC-MG, Coffee lover, Organized, Proactive, Calm and Performance curious. Currently in love with Development and Programming.</p>
 <p>I'm learning at the moment <strong>Python and Clojure</strong></p>
-<p>
-<a target="_blank" href="https://www.linkedin.com/">
+<p align="justify"><a target="_blank" href="https://www.linkedin.com/">
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a target="_blank" href="https://www.github.com">
